@@ -3,6 +3,24 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;}
+.grupo1 a:link{
+	color:black;
+}
+.grupo1 a:hover{
+	color:orange;
+}
+.grupo1 a:visited {
+  color: black;}
+.grupo2 a:link{
+	color:black;
+}
+.grupo2 a:hover{
+color:orange;}
+.grupo3 a:link{
+	color:black;
+}
+.grupo3 a:hover{
+color:orange;}
 
   .port{
 	color:floralwhite;
@@ -60,4 +78,22 @@ img:hover{ transform: scale(1.1);}
   background-color:rgba(0,0,0,0.8);
   color:lightblue;
   text-align: center;
+  padding:12px;
+  margin-top:130px;
   }
+  .grupo1{
+	  width: 33%;
+	  height: 30%;
+	  float:left
+  }
+  .grupo2{
+	  width: 33%;
+	  height: 30%;
+	  float:left;
+  }
+  .grupo3{
+	  width: 33%;
+	  height: 30%;
+	  float:left;
+  }
+  
